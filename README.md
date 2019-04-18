@@ -27,10 +27,27 @@ javascript full stack
 ## roadmap
 
 #### in progress
+- single-page app
+- progressive web app
+- admin dashboard
+- app store
+- chat
+- chatbot
+- integration with erp
+- integration with crm
+- integration with marketplace platforms
+- integration with classified platforms
+- integration with delivery service companies
+- integration with payment intermediaries
+- integration with hosting companies
 - 
 
 #### planned
-- 
+- fingerprint biometrics
+- voice biometrics
+- image biometrics
+- voice search
+- image search
 
 ## community
 
