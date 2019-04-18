@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="/home/fmaa/adaptcommerce/src/web/theme/components/atoms/Logo/1x1github.png" alt="adaptcommerce logo" width="72" height="72">
+  <img src="/home/fmaa/adaptcommerce/src/web/theme/components/atoms/Logo/logo.svg" alt="adaptcommerce logo" width="72" height="72">
   
   <h3>adaptcommerce</h3>
 
