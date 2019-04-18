@@ -1,5 +1,7 @@
 # adaptcommerce
-trata-se
+open source platform focused on e-commerce for all
+built with reactjs and nodejs
+javascript full stack 
 
 ## requirement
 
@@ -65,6 +67,3 @@ check out [adaptcommerce documentation](link).
 
 ## credits
 we thank our main team davi monteiro and felipe monteiro, and other incredible collaborators.
-
-## license
-mit
