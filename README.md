@@ -1,7 +1,13 @@
 <div align="center">
-
-  <img src="/home/fmaa/adaptcommerce/src/web/theme/components/atoms/Logo/logo.svg" alt="adaptcommerce logo" width="72" height="72">
-  
+   
+   <img src="adaptcommerce/src/web/theme/components/atoms/Logo/logo.png" alt="logo" width="72" height="72">
+    
+   ![logo](adaptcommerce/src/web/theme/components/atoms/Logo/logo.png)
+    
+    <img src="adaptcommerce/src/web/theme/components/atoms/Logo/logo.png" alt="logo" width="72" height="72">
+    
+  ![logo](adaptcommerce/src/web/theme/components/atoms/Logo/logo.png)
+    
   <h3>adaptcommerce</h3>
 
 </div>
