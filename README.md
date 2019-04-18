@@ -42,7 +42,7 @@ texto
 3.  `sudo npm start`
 4.   This is it! You can now open http://0.0.0.0:8080/ and begin hacking.
 
-# feature
+## feature
 - free and open
 - decentralized
 - transparent
@@ -50,37 +50,37 @@ texto
 
 ## roadmap
 
-# in progress
+#### in progress
 - 
 
-# planned
+#### planned
 - 
 
 ## participate and collaborate with our community
 
 #### any collaboration will be welcome
 
-### developer
+#### developer
 - [telegram](link)
 - [slack](link)
 
-### designer
+#### designer
 - [telegram](link)
 - [slack](link)
 
-### translator
+#### translator
 - [telegram](link)
 - [slack](link)
 
-### event
+#### event
 - [telegram](link)
 - [slack](link)
 
-### media
+#### media
 - [telegram](link)
 - [slack](link)
 
-### user
+#### user
 - [telegram](link)
 - [slack](link)
 
