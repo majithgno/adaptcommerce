@@ -1,16 +1,4 @@
-<div align="center">
-   
-   <img src="adaptcommerce/src/web/theme/components/atoms/Logo/logo.png" alt="logo" width="72" height="72">
-    
-   ![logo](adaptcommerce/src/web/theme/components/atoms/Logo/logo.png)
-    
-    <img src="adaptcommerce/src/web/theme/components/atoms/Logo/logo.png" alt="logo" width="72" height="72">
-    
-  ![logo](adaptcommerce/src/web/theme/components/atoms/Logo/logo.png)
-    
-  <h3>adaptcommerce</h3>
-
-</div>
+# adaptcommerce
 
 ## overview
 
