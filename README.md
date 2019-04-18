@@ -4,7 +4,6 @@ built with reactjs and nodejs
 javascript full stack 
 
 ## requirement
-
 - git
 - npm (> = 5.x)
 - nodejs (> = 8.x)
@@ -13,7 +12,6 @@ javascript full stack
 - mongodb
 
 ## installation
-
 1.  `git clone git@github.com:adaptcommerce/adaptcommerce`
 2.  `cd adaptcommerce` 
 3.  `sudo npm install`
@@ -35,9 +33,7 @@ javascript full stack
 - 
 
 ## participate and collaborate with our community
-
 #### any collaboration will be welcome
-
 - [developer](link)
 - [designer](link)
 - [translator](link)
