@@ -70,10 +70,10 @@ ideal for those who want
 - learn, develop and excel personally and professionally
 
 ## documentation
-check out [adaptcommerce documentation](link).
+check out [adaptcommerce documentation](link)
 
 ## credits
-we thank our main team davi monteiro and felipe monteiro, and other incredible collaborators.
+we thank our main team davi monteiro and felipe monteiro, and other incredible collaborators
 
 ## license
 adaptcommerce is released under the terms of the [mit license](https://opensource.org/licenses/MIT)
