@@ -66,12 +66,5 @@ check out [adaptcommerce documentation](link).
 ## credits
 we thank our main team davi monteiro and felipe monteiro, and other incredible collaborators.
 
-## mit license
-
-we do not accept financial donations.
-we accept sharin
-[![site](link)](link)
-[![instagram](link)](link)
-[![facebook](link)](link)
-[![twitter](link)](link)
-[![linkedin](link)](link)
+## license
+mit
