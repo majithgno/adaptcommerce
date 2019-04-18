@@ -1,0 +1,12 @@
+#import "theme/components/molecules/ProductPrice/ProductPriceFragment.gql"
+
+fragment ProductItemFragment on Product {
+  name
+  ...ProductPriceFragment
+  imageUrl
+  sku
+
+  # ... on MoltinProduct {
+  #   commodityType
+  # }
+}

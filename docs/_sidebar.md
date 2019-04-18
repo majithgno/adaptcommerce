@@ -1,0 +1,6 @@
+- [Getting started](getting-started.md)
+- [Adapt the theme to your brand](adapt-theme-to-brand.md)
+- [Create a UI component](create-a-ui-component.md)
+- [Create a business component](create-a-business-component.md)
+- [Create a custom page](create-custom-page.md)
+- [Extend the GraphQL schema](extend-graphql-schema.md)

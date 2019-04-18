@@ -1,0 +1,15 @@
+#import "theme/components/atoms/Typography/Price/PriceFragment.gql"
+#import "./Item/CartItemFragment.gql"
+
+fragment CartFragment on Cart {
+  id
+  items_qty
+  items {
+    ...CartItemFragment
+  }
+  totals {
+    subtotalInclTax {
+      ...PriceFragment
+    }
+  }
+}
