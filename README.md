@@ -38,29 +38,12 @@ javascript full stack
 
 #### any collaboration will be welcome
 
-#### developer
-- [telegram](link)
-- [slack](link)
-
-#### designer
-- [telegram](link)
-- [slack](link)
-
-#### translator
-- [telegram](link)
-- [slack](link)
-
-#### event
-- [telegram](link)
-- [slack](link)
-
-#### media
-- [telegram](link)
-- [slack](link)
-
-#### user
-- [telegram](link)
-- [slack](link)
+- [developer](link)
+- [designer](link)
+- [translator](link)
+- [evento](link)
+- [media](link)
+- [user](link)
 
 ## documentation
 check out [adaptcommerce documentation](link).
