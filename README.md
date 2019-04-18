@@ -32,14 +32,26 @@ javascript full stack
 #### planned
 - 
 
-## participate and collaborate with our community
-#### any collaboration will be welcome
-- [developer](link)
-- [designer](link)
-- [translator](link)
-- [evento](link)
-- [media](link)
-- [user](link)
+## community
+
+any collaboration will be welcome
+
+are part of the community
+- developers at all levels and in all areas
+- designers
+- engineers
+translators
+- event organizers
+- communicators and digital influencers
+- buyers and sellers users
+- lawyers
+- other
+
+ideal for those who want
+- collaborate when and where you want
+- collaborate on open source projects that positively impact the world
+- meet different people and participate in a plural and tolerant world-class team
+- learn, develop and excel personally and professionally
 
 ## documentation
 check out [adaptcommerce documentation](link).
