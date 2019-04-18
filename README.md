@@ -16,7 +16,7 @@ javascript full stack
 2.  `cd adaptcommerce` 
 3.  `sudo npm install`
 3.  `sudo npm start`
-4.   this is it! You can now open http://0.0.0.0:8080/ and begin hacking.
+4.   open `http://0.0.0.0:8080/`
 
 ## feature
 - free and open
@@ -74,3 +74,6 @@ check out [adaptcommerce documentation](link).
 
 ## credits
 we thank our main team davi monteiro and felipe monteiro, and other incredible collaborators.
+
+## license
+adaptcommerce is released under the terms of the [mit license](https://opensource.org/licenses/MIT)
