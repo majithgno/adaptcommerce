@@ -40,7 +40,7 @@ are part of the community
 - developers at all levels and in all areas
 - designers
 - engineers
-translators
+- translators
 - event organizers
 - communicators and digital influencers
 - buyers and sellers users
