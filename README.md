@@ -1,25 +1,8 @@
 <div align="center">
-  <h1>adaptcommerce</h1>
 
-  <p>
-
-**texto**
-
-texto
-
-  </p>
-
-  <p>
-
-[![code style: prettier](link)](link)
-![Dependencies status](link)
-![GitHub last commit](link)
-[![Questions welcome](link)](link)
-[![chat: on Slack](link)](link)
-![license](link)
-[![Twitter Follow](link)](link)
-
-  </p>
+  <img src="/home/fmaa/adaptcommerce/src/web/theme/components/atoms/Logo/1x1github.png" alt="adaptcommerce logo" width="72" height="72">
+  
+  <h3>adaptcommerce</h3>
 
 </div>
 
