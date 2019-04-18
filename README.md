@@ -40,7 +40,6 @@ javascript full stack
 - integration with delivery service companies
 - integration with payment intermediaries
 - integration with hosting companies
-- 
 
 #### planned
 - fingerprint biometrics
