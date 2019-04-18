@@ -16,7 +16,7 @@ javascript full stack
 2.  `cd adaptcommerce` 
 3.  `sudo npm install`
 3.  `sudo npm start`
-4.   This is it! You can now open http://0.0.0.0:8080/ and begin hacking.
+4.   this is it! You can now open http://0.0.0.0:8080/ and begin hacking.
 
 ## feature
 - free and open
@@ -37,15 +37,15 @@ javascript full stack
 any collaboration will be welcome
 
 are part of the community
-- developers at all levels and in all areas
-- designers
-- engineers
-- translators
-- event organizers
-- communicators and digital influencers
-- buyers and sellers users
-- lawyers
-- other
+- [developers](link) at all levels and in all areas
+- [designers](link)
+- [engineers](link)
+- [translators](link)
+- [event organizers](link)
+- [communicators and digital influencers](link)
+- [buyers and sellers](link)
+- [lawyers](link)
+- [others](link)
 
 ideal for those who want
 - collaborate when and where you want
