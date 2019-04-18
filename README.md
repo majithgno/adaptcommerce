@@ -58,29 +58,29 @@ texto
 
 ## participate and collaborate with our community
 
-any collaboration will be welcome
+#### any collaboration will be welcome
 
-# developer
+### developer
 - [telegram](link)
 - [slack](link)
 
-# designer
+### designer
 - [telegram](link)
 - [slack](link)
 
-# translator
+### translator
 - [telegram](link)
 - [slack](link)
 
-# event
+### event
 - [telegram](link)
 - [slack](link)
 
-# media
+### media
 - [telegram](link)
 - [slack](link)
 
-# user
+### user
 - [telegram](link)
 - [slack](link)
 
